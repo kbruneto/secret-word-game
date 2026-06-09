@@ -22,7 +22,7 @@ button {
   font-weight: bold;
   font-size: 1.2em;
   cursor: pointer;
-  transition: 0.4s;
+  transition: 0.5s;
 }
 
 button:hover {
